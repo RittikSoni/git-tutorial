@@ -4,3 +4,5 @@ this is a new file!!
 🚀📝📚🪙🛕🎙️
 
 new branch edits here
+
+lets say some other developer changed this file and merged into main branch
