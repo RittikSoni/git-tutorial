@@ -4,3 +4,5 @@ this is a new file!!
 🚀📝📚🪙🛕🎙️
 
 new branch edits here
+
+dev1 is also editing the same file on same line but different content.
